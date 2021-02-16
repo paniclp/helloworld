@@ -1,2 +1,2 @@
 # helloworld
-startid 100409063 101982248 104726200 102489401 endid
+startid 101982248 endid
